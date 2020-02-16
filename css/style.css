@@ -1,0 +1,23 @@
+.white-border {
+    height: 780px;
+    background-color: #d3940c;
+    padding: 1px;
+
+}
+.green-box {
+    height: 760px;
+    background-color: #ffffff;
+    margin: 1px 100px;
+    padding: 1px;
+    margin-top: -40px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #04f986;
+}
+
+
+.white-border h2 {
+    margin-bottom: 20px;
+    padding-top: 5px;
+    text-align: center;
+}
