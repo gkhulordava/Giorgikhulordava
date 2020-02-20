@@ -1,0 +1,368 @@
+div {
+    font-size: 2em;
+    height: 230px;
+    width: 600px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+
+}
+.textnormal {
+    font-size: 0.80em;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 5px;
+    }
+.textitalic {
+    font-size: 1em;
+    font-style: italic;
+    }
+.textoblique {
+    font-size: 0.75em;
+    font-style: oblique;
+}
+.h {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+.h1 {
+    margin: 0;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.3em;
+
+
+}
+.background {
+    background-color: #eeeaaa;
+
+
+}
+.text1 {
+    text-align: center;
+    text-shadow: 2px 2px white;
+    margin-top: 10px;
+}
+.text2 {
+    text-align: center;
+    font-size: 0.65em;
+    font-style: normal;
+    text-shadow: 2px 2px white;
+}
+.textred {
+    text-align: right;
+    font-size: 0.95em;
+    font-weight: bold;
+    color: red;
+    
+}
+.text3 {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 0.95em;
+    font-weight: bold;
+    
+}
+.text4 {
+    text-align: right;
+    font-size: 0.80em;
+    font-weight: bold;
+    
+}
+.text5 {
+    font-size: 0.50em;
+    margin-bottom: -1em;
+    
+
+
+}
+.div1 {
+    
+    height: 390px;
+    width: 600px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+
+
+
+}
+.border {
+    width: 300px;
+    border-style: solid;
+    border-color: red;
+    border-width: 8px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-top: 10px;
+            
+
+
+}
+
+.border1 {
+    width: 300px;
+    border-style: solid;
+    border-color: rgb(16, 3, 37);
+    border-width: 8px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-top: 10px;
+            
+
+
+}
+.text6 {
+    font-size: 1.1em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: overline;
+    
+
+}
+.text7{
+    font-size: 0.8em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: line-through;
+
+}
+.text8 {
+    font-size: 0.6em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+.text9 {
+    
+    margin-top: 5px;
+    word-spacing: 20px;
+    font-size: 0.8em;
+    font-style: normal;
+    font-weight: bold;
+}
+.text10 {
+
+    padding-top: 10px;
+    letter-spacing: 5px;
+    font-size: 0.5em;
+}
+.background1 {
+    background-color: rgb(252, 239, 239);
+}
+.div2 {
+    font-size: 2em;
+    height: auto;
+    width: 600px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+
+}
+.text11 {
+    margin-top: 0px;
+    font-size: 0.95em;
+    font-weight: bold;
+    
+}
+.text12 {
+    margin-top: 0px;
+    font-size: 0.50em;
+    
+}
+.dotted {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: dotted;
+    border-width: 6px;
+   
+
+}
+.dashed {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: dashed;
+    border-width: 6px;
+
+
+}
+.solid {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: solid;
+    border-width: 6px;
+
+}
+.double {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: double;
+    border-width: 6px;
+
+}
+.groove {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: groove;
+    border-width: 6px;
+
+}
+.ridge {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: ridge;
+    border-width: 6px;
+
+}
+.inset {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: inset;
+    border-width: 6px;
+
+
+}
+.outset {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: outset;
+    border-width: 6px;
+
+
+}
+.none {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: none;
+    border-width: 6px;
+
+
+}
+.hidden {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: hidden;
+    border-width: 6px;
+
+
+}
+.mix {
+    font-size: 0.75em;
+    border-color:#00ffff; 
+    border-style: dotted dashed solid double;
+    border-width: 6px;
+
+
+}
+.text13 {
+    font-size: 17px;
+}
+.rectangle{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: brown;
+}
+.text14 {
+    font-size: 17px;
+    margin: 0px;
+}
+.div3 {
+    font-size: 1.7em;
+    width: 600px;
+    height: 600px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+
+}
+.rectangle2{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+}
+.rectangle3{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJMYog55IDuaiIFV3ids9TMWSbZolF0ourgUY3M8qx4VVntfE");
+    background-position: center;
+    background-size: auto;
+}
+ .rectangle4 {
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: red;
+    border-radius: 15px 50px 30px 5px;
+    border-width: 0px;
+ }
+ .rectangle5 {
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: red;
+    border-radius: 15px 50px 30px;
+    border-width: 0px;
+ }
+ .rectangle6 {
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: red;
+    border-radius: 15px 50px ;
+    border-width: 0px;
+ }
+ .div4 {
+    font-size: 1.7em;
+    width: 600px;
+    height: 600px;
+    min-height: auto;
+    border: #d8d4d0;
+    padding: 10px;
+    border-style: ridge;
+
+}
+.rectangle7 {
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: red;
+    border-radius: 50px/15px ;
+    border-width: 2px;
+ }
+ .rectangle8 {
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: red;
+    border-radius: 15px/50px;
+    border-width: 2px;
+ }
+ .rectangle9 {
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: red;
+    border-radius: 50% ;
+    border-width: 2px;
+ }
+ .div5 {
+    font-size: 1.7em;
+    width: 600px;
+    height: 600px;
+    min-height: auto;
+    border: #a79f98;
+    padding: 10px;
+    border-style: ridge;
+    border-width: 3px;
+
+}
