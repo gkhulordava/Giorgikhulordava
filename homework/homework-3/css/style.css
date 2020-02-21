@@ -1,0 +1,47 @@
+body {
+    height: 700px;
+    background-color: yellow;
+    background-image: url(../background/blue.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+}
+div { 
+    margin-top: 20px;
+    margin-left: 60px;
+    
+
+
+
+}
+.textnormal {
+    margin-left: center;
+    text-align: center;
+    
+}
+.list{
+    list-style-type:square;
+    color: black;
+}
+.textgreen {
+    list-style: square;
+    color: green;
+    font-size: 1.1em;
+    font-style: normal;
+    text-decoration: underline;
+    
+
+
+}
+
+
+.textblue{
+    list-style: square;
+    color: blue;
+    font-size: 1.1em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+
+
+}

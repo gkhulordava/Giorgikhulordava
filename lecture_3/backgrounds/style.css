@@ -1,0 +1,28 @@
+body {
+    height: 700px;
+    background-color: aquamarine;
+    background-image: url(background.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+}
+div{
+    width: 300px;
+    height: 300px;
+    border: solid 1px black;
+
+
+
+}
+.gradient {
+    background-image: linear-gradient(to right,red ,blue);
+
+
+
+}
+.gradient1 {
+    background-image: radial-gradient(yellow,green,red);
+
+
+
+}
