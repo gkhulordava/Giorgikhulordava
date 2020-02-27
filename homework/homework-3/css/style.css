@@ -1,14 +1,15 @@
 body {
     height: 700px;
     background-color: yellow;
-    background-image: url(../background/blue.png);
-    background-repeat: repeat;
+    background-image: url(../background/global.jpg);
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 
 }
 div { 
-    margin-top: 20px;
-    margin-left: 60px;
+    margin-top: 60px;
+    margin-left: 170px;
     
 
 
@@ -19,29 +20,418 @@ div {
     text-align: center;
     
 }
-.list{
-    list-style-type:square;
-    color: black;
+.list {
+    list-style-type: square;
+    line-height: 55px;
+    font-size: 20px;
+    
+    
+    
+
+
+
 }
-.textgreen {
-    list-style: square;
-    color: green;
-    font-size: 1.1em;
+.textblue {
+    color: blue;
+    font-size: 1.3em;
     font-style: normal;
     text-decoration: underline;
+}
+.textgreen {
+    color: rgb(67, 139, 67);
+    font-size: 1.3em;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.html {
+    height: 255px;
+    width: 255px;
+    margin-left: 150px;
+    padding: 30px;
+    margin-top: 60px;
+    padding-block-end: 0mm;
+
+
+}
+.css {
+    height: 255px;
+    width: 255px;
+    padding: 30px;
+    padding-block-end: 0mm;
+
+
+}
+.javascript {
+    height: 255px;
+    width: 255px;
+    padding: 30px;
+    padding-block-end: 0mm;
+
+
+}
+.php {
+    height: 255px;
+    width: 255px;
+    padding: 30px;
+    padding-block-end: 0mm;
+
+
+}
+.as {
+    height: 255px;
+    width: 255px;
+    padding: 30px;
+    padding-block-end: 0mm;
+
+
+}
+.textcopy {
+    font-size: 1em;
+    font-style: normal;
+    font-style: bold;
+    margin-top: 60px;
+    text-align: center;
+
+
+}
+.text {
+    margin-left: 140px;
+    font-size: 1.4em;
+    
+    
+    
+}
+.bold {
+    font-style: bold;
+
+}
+.photo {
+    margin-left: 140px;
+    width: 400px;
+    display: block;
+    
+    
+}
+.gadasvla {
+    margin-left: 140px;
+    color: black;
+
+
+}
+
+.photo1 {
+    margin-left: 274px;
+    width: 300px;
+    margin-top: 100px;
+    float: left;
+    
+}
+.texttop {
+    margin-left: 150px;
+    display: inline-block;
+        
+       
+        
+    }
+.textjava {
+        margin-left: 50px;
+        font-size: 1.4em;
+        float: left;
+        
+        
+    }
+.textcopy1 {
+        font-size: 1.2em;
+        font-style: normal;
+        font-style: bold;
+        margin-left: 620px;
+        margin-right: 530px;
+        
+    
+    
+    }
+.textcopy2 {
+        font-size: 1.2em;
+        font-style: normal;
+        font-style: bold;
+        margin-left: 304px;
+        margin-right: 870px;
+        margin-top: 80px;
+}
+.photo2 {
+    margin-right: 460px;
+    width: 380px;
+    margin-top: -175px;
+    float: right;
+
+    
+}
+.gadasvla1 {
+    color: black;
+    font-size: 1.2em;
+    font-style: normal;
+    font-style: bold;
+    
+    
     
 
 
 }
-
-
-.textblue{
-    list-style: square;
-    color: blue;
-    font-size: 1.1em;
+.textcopyright {
+    font-size: 1.2em;
     font-style: normal;
-    font-weight: bold;
-    text-decoration: underline;
+    font-style: bold;
+    margin-top: 150px;
+    text-align: center;
 
 
 }
+.photophp {
+    margin-left: 140px;
+    width: 550px;
+   
+    
+    
+}
+.textphp {
+    margin-left: 139px;
+    font-size: 1.4em;
+    margin-right: 399px;
+    margin-left: 140px;
+    font-size: 1.4em;
+}
+.gadasvla2 {
+    margin-left: 140px;
+    color: black;
+    font-size: 1.5em;
+
+
+}
+.textcopycopy {
+    font-size: 1.5em;
+    font-style: normal;
+    font-style: bold;
+    /* margin-top: 60px; */
+    text-align: center;
+}
+.photoflash {
+     margin-left: 100px;
+     width: 300px;
+     margin-top: 50px;
+     float: left;
+    
+
+
+}
+.texttop1 {
+    margin-left: 150px;
+    display: inline-block;
+    margin-top: -50px;
+        
+       
+        
+    }
+.textcopy3 {
+    font-size: 1.2em;
+    font-style: normal;
+    font-style: bold;
+    margin-left: 530px;
+    margin-right: 511px;
+    margin-top: 42px;
+
+
+
+}
+.flashdivi{
+    margin-top: 5px;
+    width: 329px;
+    height: 170px;
+    float: left;
+}
+.flashphoto{
+    background-position: center;
+    background-size: contain;
+    height: 180px;
+    float: left;
+    width: 245px;
+    margin-left: 96px;
+    margin-top: 15px;
+}
+
+.textcopy4 {
+    font-size: 1.2em;
+    font-style: normal;
+    font-style: bold;
+    margin-left: 530px;
+    margin-right: 497px;
+    margin-top: 22px;
+
+
+
+}
+.textcopy5 {
+    font-size: 1.2em;
+    font-style: normal;
+    font-style: bold;
+    margin-left: 230px;
+    margin-right: 509px;
+    margin-top: -19px;
+
+
+
+}
+.flashphoto1{
+    background-position: center;
+    /* background-size: contain; */
+    height: 335px;
+    float: left;
+    width: 580px;
+    margin-left: 648px;
+    margin-top: 3px;
+}
+.textcopy6 {
+    font-size: 1.2em;
+    font-style: normal;
+    font-style: bold;
+    margin-left: 230px;
+    margin-right: 535px;
+    margin-top: -5px;
+
+
+
+
+}
+.gadasvla3 {
+    margin-left: 230px;
+    color: black;
+    font-size: 1.5em;
+
+
+}
+
+.texttext {
+    margin-left: 250px;
+    font-size: 1.4em;
+    margin-right: 350px;
+}
+.photocska {
+    margin-left: 250px;
+    width: 400px;
+    display: block;
+
+
+}
+.gadasvlai {
+    margin-left: 250px;
+    color: black;
+    font-size: 1.5em;
+
+
+}
+.grid-container {
+    display: block;
+    height: 240px;
+    width: 1310px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    background-color: silver;
+    border: solid 2px;
+    
+    
+}
+
+
+
+
+  
+
+
+
+
+.grad {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: linear-gradient(to right, red,green,blue);
+    
+
+}
+.grad1 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: linear-gradient(to top , red,green,blue);
+    
+
+}
+.grad2 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: linear-gradient(to left top , red,green,blue);
+
+}
+.grad3 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: linear-gradient(to left bottom, red,green,blue);
+
+}
+.grad4 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: radial-gradient(circle, red,green,blue);
+    
+
+}
+.grad5 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: radial-gradient(circle , red 50%,green,blue);
+    
+
+}
+.grad6 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: repeating-radial-gradient(red 0%, green 10%, blue 35%);
+
+}
+.grad7 {
+    width: 300px;
+    background-color: tan;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    background-image: radial-gradient(circle, red 21%,green 27%,blue 19%)
+}
+    
+
