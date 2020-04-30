@@ -1,0 +1,58 @@
+.div1 {
+    
+    height: 300px;
+    width: 1000px;
+    border: groove 2px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+.div2 {
+    margin-top: 20px;
+    border-width: 800px;
+    border: solid 1px;
+    height: 20px;
+    width: 800px;
+    margin-right: 25px;
+    margin-left: 50px;
+    border-top-style: solid;
+    border-color: grey;
+}
+
+
+.dotted {
+    font-size: 18px;
+    border-color: green;
+    border-style: dotted;
+    width: 800px;
+    margin-left: 50px;
+    border-width: 5px;
+    margin-top: 4px;
+
+
+
+}
+.dotted1 {
+    font-size: 18px;
+    text-align: center;
+    border-color: green;
+    border-style: dotted;
+    width: 800px;
+    margin-left: 50px;
+    border-width: 5px;
+    margin-top: 4px;
+
+
+
+}
+.div3{
+    width: 800px;
+    height:80px;
+    margin-left: 50px;
+    background-color: blue;
+
+
+}
+
+
+

@@ -1,0 +1,61 @@
+.table {
+    border-style: ridge;
+    width: 800px;
+    height: 350px;
+    margin-left: 250px;
+    border-collapse: collapse;
+}
+
+table th {
+    border: double;
+    
+
+}
+table td{
+    border: double;
+    width: 180px;
+}
+.tabledata {
+    
+    margin-left: 600px;
+
+
+}
+.table tfoot td{
+    background: green;
+    border: double;
+    padding: 12px;
+ }
+.header{
+    height: 120px;
+}
+.menu{
+    height: 30px;
+    width: 180px;
+}
+.content{
+    width: 600px;
+}
+
+.height {
+    height: 330px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(62, 218, 62);
+}
+.white{
+    background-color: white;
+    vertical-align: top;
+}
+.blue{
+    background-color: blue;
+}
+.h1{
+    height: 80px;
+}
+.border{
+    border-collapse: collapse;
+}

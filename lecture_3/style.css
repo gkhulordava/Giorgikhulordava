@@ -1,0 +1,23 @@
+.table{
+   border-style: double;
+   width: 550px;
+   height: 320px;
+   margin-left: 200px;
+   /* border-collapse: collapse; */
+   
+}
+
+.table td{
+   border: double;
+  
+}
+
+table th {
+   border: double;
+}
+
+.table tfoot td{
+   background: green;
+   border: double;
+   padding: 12px;
+}

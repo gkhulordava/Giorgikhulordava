@@ -1,0 +1,111 @@
+.div {
+    height: 500px;
+    width: 1050px;
+    border: 2px solid black;
+    background-color: silver;
+    margin: 10px auto;
+    position: relative;
+
+}
+.gazafxuli{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 0px;
+    left: 0px;
+}
+
+.zafxuli{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 0px;
+    right: 0px;
+}
+.shemodgoma{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.zamtari{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+.gazafxuli1{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 50px;
+    left: 220px;
+    z-index: 1;
+}
+
+.zafxuli1{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 100px;
+    left: 260px;
+    z-index: 2;
+}
+.shemodgoma1{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 150px;
+    left: 320px;
+    z-index: 3;
+}
+
+.zamtari1{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 200px;
+    left: 373px;
+    z-index: 4;
+}
+
+
+
+.gazafxuli2{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 200px;
+    right: 373px;
+    z-index: 8;
+}
+
+.zafxuli2{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 150px;
+    right: 320px;
+    z-index: 7;
+}
+.shemodgoma2{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 100px;
+    right: 260px;
+    z-index: 6;
+}
+.zamtari2{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 50px;
+    right: 220px;
+    z-index: 5;
+}

@@ -1,0 +1,108 @@
+.div{
+    height: 640px;
+    width: 800px;
+    border: 0px solid;
+    margin: auto;
+    position: relative;
+
+}
+
+.saqartvelo{
+    height: 130px;
+    width: 1000px;
+    background-color: green;
+    margin: auto;
+    font-size: 2.6em;
+    color: white;
+    padding-left: 10px;
+    line-height: 130px;
+    
+
+}
+.yud{
+    height: 90px;
+    width: 1000px;
+    background-color: green;
+    margin: auto;
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    line-height: 88px;
+    text-align: center;
+    
+
+}
+
+.qartli{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(47, 181, 229);
+    position: absolute;
+    color: white;
+    top: 160px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+
+}
+
+.kaxeti{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(47, 181, 229);
+    position: absolute;
+    color: white;
+    top: 220px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+
+}
+
+.imereti{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(47, 181, 229);
+    position: absolute;
+    color: white;
+    top: 280px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+
+}
+.guria{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(47, 181, 229);
+    position: absolute;
+    color: white;
+    top: 340px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+
+}
+
+.samegrelo{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(47, 181, 229);
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+
+}
+
+.texti{
+    position: absolute;
+    width: 520px;
+    border: 0px solid;
+    top: 180px;
+    right: 15px;
+    
+
+}
